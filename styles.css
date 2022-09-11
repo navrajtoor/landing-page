@@ -79,15 +79,17 @@ h2{
     padding: 100px;
 }
 .p-img{
+    display: flex;
+    justify-content: center;
     border: 5px solid;
     border-radius: 5px;
     border-color: #3882f6;
 }
 .caption{
     display: flex;
-    width: 150px;
+    width: 125px;
     text-align: center;
-    margin-left: 100px;
+    margin-left: 45px;
     margin-top: 20px;
 }
 .block3{
